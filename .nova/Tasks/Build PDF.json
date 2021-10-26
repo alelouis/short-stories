@@ -1,0 +1,13 @@
+{
+  "actions" : {
+    "build" : {
+      "command" : "\/bin\/bash",
+      "enabled" : true,
+      "path" : "build.sh"
+    }
+  },
+  "arguments" : [
+    "${FileBasename}"
+  ],
+  "identifier" : "14DF428B-DFCC-41CD-B456-294AA53F0597"
+}
