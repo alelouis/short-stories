@@ -5,11 +5,11 @@ date: 30 Octobre 2021
 ---
 # Dordogne, France
 
-Brise d’air frais sur quelques ruisseaux translucides. Feuilles aux infinies nuances de verts et de jaunes. Vieux habitats en pierres grises et rugueuses. Champs dorées de céréales et poussières de moissons. Cris et rires perdus d’enfants dans les plaines de l’été.
+Brise d’air frais sur quelques ruisseaux translucides. Feuilles aux infinies nuances de verts et de jaunes. Vieux habitats en pierres grises et rugueuses. Champs dorés de céréales et poussières de moissons. Cris et rires perdus d’enfants dans les plaines de l’été.
 
 Ziiiip. Ziiiip. Les descentes et remontées du yoyo rouge vif étaient régulières. Tendue, droite et solide, la ficelle blanche résistait aux mouvements secs de son propriétaire. 
 D'une régularité à en rendre jaloux un métronome, cette démonstration de technicité ne semblait pas lui demander d'effort particulier. Ces yoyos de couleurs vives, souvent fluo et parfois à led intégrées — ses préférés —, ne se trouvaient plus que dans les greniers poussiéreux des anciens. 
-« La dextérité, la synchronisation, régularité et sans oublier le plus important : la patience ». 
+— La dextérité, la synchronisation, régularité et sans oublier le plus important : la patience. 
 Un vieil homme, donnant l'impression de lutter à chaque pas, s’extirpait d’une cabane en bois tout ébouriffé. 
 — Ta maîtrise du yoyo est presque parfaite, j'ai bien dit presque. lança-t-il au robot. 
 — Viens mon enfant, allons nous reposer au bord du lac. 
@@ -32,6 +32,8 @@ Il avait haussé le ton. La doyenne lui fit un geste de la main, le robot jouait
 
 # Moscou, Russie
 
+Blizzard bleuté. Courants sporadiques et chauds de tisanes herbacées. Brûlures du froid humide. Reflets roses au crépuscule sur de rares stratus.
+
 Non. Non, pas comme ça ! Le robot s’immobilisa et fixa, d’un air étrangement humain, son éducatrice. Elle était grande et élancée, en habit de travail couleur beige aux nuances de crasse. Ses mains étaient enflées, rouges et engourdies par de dures années de travail. Inspirant longuement, elle opta pour la pédagogie.
 — La table repose sur deux tréteaux, si tu saisies uniquement la planche tu ne déplaces pas toute la table, mais seulement la planche, tu comprends ?
 Après quelques instants, le robot prit un ton insolent, malheureusement habituel.
@@ -49,6 +51,8 @@ Un long soupir. Elle aligna ses mains sur ses genoux, dressa son dos et inspira 
 — Question de point de vue, répondit aussitôt le robot comme s’il avait attendu la remarque depuis des années. 
 
 # AD-41, Lune
+
+Journée étoilée. Odeur de poudre noire brûlée. Apesanteur enfantine et obscurité oppressante des tunnels enterrés. 
 
 Bravo. C'est magnifique. Le robot posa la guitare acoustique sur son repose pied, près de lui. 
 — Cela fait combien de temps que tu l'as mis à la guitare ton robot ? s'interrogea Jean.
@@ -70,6 +74,8 @@ Jean fronça les sourcils, ne sachant pas faire le tri entre le choc de beauté 
 
 
 # Palerme, Sicile
+
+Chaleur d'été. Tuiles colorées et vitrines vandalisés. Commerces inutiles, sourires des anciens et linge étendu par dessus les rues.
 
 Encore. Encore dix. 
 — Cinq fois sept ?
@@ -93,7 +99,7 @@ Le robot ria encore.
 — Je vais m'énerver. Julia prit un air que seuls les adultes les plus moroses possédaient.
 Le robot se calma, puis d'une voix qui n'avait plus rien d'humain, prononça ces quelques mots:
 — Je rigole quand je ne comprends pas, comme vous non ?
-Il se leva et se défenestra du cinquième étage.
+Il se leva et se défenestra du cinquième étage, emportant avec lui quelques habits humides.
 
 # Paris, France
 Sshhh! Sshhh!
