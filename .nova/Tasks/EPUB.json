@@ -2,11 +2,11 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "path" : "build_pdf.sh"
+      "path" : "build_epub.sh"
     }
   },
   "arguments" : [
     "${FileBasename}"
   ],
-  "identifier" : "14DF428B-DFCC-41CD-B456-294AA53F0597"
+  "identifier" : "91E6CCC7-B363-4D83-950D-298480B06C32"
 }
