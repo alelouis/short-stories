@@ -121,7 +121,7 @@ On entendait des gémissements, des lamentations, des cris venant des voitures a
 Il voulait le prendre dans ses bras, puis senti les bras d’Elsa l’enlacer.
 
 Jean et Gianna sortirent de la voiture, marchèrent quelques pas pour finalement s’allonger sur la route. Ils étaient vivants, il n’y croyaient plus.
-
+\
 Le lendemain, devant sa tasse de café qu’il tournait depuis cinq bonnes minutes, Paul peinait à ouvrir les yeux. Elsa rentra dans l’appartement, le journal local à la main. Elle le lança sur la table où Paul était accoudé. 
 Il y lit le gros titre : Cyber-Attaque des tunnels Under: un milliers de personnes otages d’activistes anti-progressistes. Il chercha les yeux d’Elsa.
 Tout en marchant dans l’appartement, elle racontait. 
@@ -139,8 +139,8 @@ Il osa demander.
 — Toutes les personnes du tunnel hier ont reçu le même message.
 Paul alluma en hâte son téléphone pour y trouver une notification non lue. Il lu le SMS.
 
-Chers terrorisés,
+*Chers terrorisés,
 Hier, aurions-nous étés mal intentionnées, vous n’auriez pas connu aujourd’hui. Le laxisme législatif de notre état et la course aveugle au progrès ont permis l’existence de telles situations. Aujourd’hui vivants, choisissez la complaisance dans votre statut de victime impuissante ou participez activement à l’élaboration d’une société plus sûr pour tous.
 Que vous choisissiez l’un ou l’autre, ne répondez pas à ce message. Nous savons où vous êtes, vous serez approchés dans les prochains jours pour votre éventuel recrutement.
 En vous souhaitant une journée moins mouvementée qu’hier.
-P.S. Evitez l’avion aujourd’hui, la météo n’est pas bonne.
+P.S. Evitez l’avion aujourd’hui, la météo n’est pas bonne.*
